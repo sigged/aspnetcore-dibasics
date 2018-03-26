@@ -30,7 +30,6 @@ namespace CoreCourse.DIBasics.Web.Controllers
             return View(vm);
         }
 
-
         public IActionResult CoffeeDI()
         {
             var vm = new CoffeeVm();

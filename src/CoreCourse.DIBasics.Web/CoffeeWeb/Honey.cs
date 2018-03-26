@@ -2,11 +2,11 @@
 
 namespace CoreCourse.DIBasics.Web.CoffeeWeb
 {
-    public class Sugar : ISweetener
+    public class Honey : ISweetener
     {
-        public Sugar()
+        public Honey()
         {
-            Name = "Sugar";
+            Name = "Honey";
         }
 
         public string Name { get; protected set; }

@@ -1,2 +1,2 @@
-# aspnetcore-statemgmt
-Shows the basics of State Management in ASP.NET Core using Session, Cache, TempData, Cookies, Querystring and Input fields.
+# aspnetcore-dibasics
+Shows the basics of Dependency Injection in ASP.NET Core using a simple "Coffeecup" component that depends on a sweetener (e.g. sugar) and a creamer (e.g. milk).
